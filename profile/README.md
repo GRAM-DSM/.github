@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" width="300" height="300"></p>
+<p align="center"><img src="https://github.com/GRAM-DSM/.github/assets/102791216/5e696e39-5b40-4542-9295-9dc572b8ae9d" width="300" height="300"></p>
 
 <h2 align="center">GRAM</h2>
 
@@ -9,8 +9,6 @@
 ## 링크
 
 [페이스북](https://www.facebook.com/전공동아리-GRAM-100585455006576/)
-
-더 자세한 그램이 궁금하다면 -> [노션](https://www.notion.so/GRAM-9362ca767c23459bab58ec21bb85cefc)
 
 ## 가치관
 

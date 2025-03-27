@@ -1,5 +1,5 @@
 
-![e7732472-5353-4917-83e0-d8aea74b44dd](https://github.com/user-attachments/assets/dade540b-8759-4c75-8cdd-20273e23efb3)
+![Frame 5](https://github.com/user-attachments/assets/826cfcb4-9972-44cd-a9d1-cf7f4fd4ff20)
 
 <h2 align="center">GRAM</h2>
 

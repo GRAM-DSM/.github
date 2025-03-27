@@ -1,4 +1,5 @@
-![logo](https://donghyuncc-cloudfront-aws.ncloud.sbs/e7732472-5353-4917-83e0-d8aea74b44dd.svg)
+
+![e7732472-5353-4917-83e0-d8aea74b44dd](https://github.com/user-attachments/assets/dade540b-8759-4c75-8cdd-20273e23efb3)
 
 <h2 align="center">GRAM</h2>
 

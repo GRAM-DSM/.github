@@ -1,12 +1,11 @@
+![Frame 5 (1)](https://github.com/user-attachments/assets/dda9e353-6568-452d-98e1-c66364526c6b)
 
-![Frame 5](https://github.com/user-attachments/assets/826cfcb4-9972-44cd-a9d1-cf7f4fd4ff20)
 
-<h2 align="center">GRAM</h2>
+
 
 > 2017년에 시작된, 모바일과 웹 프로그래밍에 관해 공부하는 전공 동아리입니다.
 
 이 저작물의 저작권은 GRAM에 있습니다. [Lisence](https://github.com/GRAM-DSM/GRAM/blob/master/License.md)에 따라 무단 수정 및 재배포를 금지합니다. 사용을 원한다면 GRAM의 허락을 맡은 후, 출처를 명시해야 합니다.
-
 
  
 ## 가치관

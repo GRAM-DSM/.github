@@ -1,4 +1,4 @@
-<p align="center"><img src="https://donghyuncc-cloudfront-aws.ncloud.sbs/e7732472-5353-4917-83e0-d8aea74b44dd.svg" width="300" height="300"></p>
+![logo](https://donghyuncc-cloudfront-aws.ncloud.sbs/e7732472-5353-4917-83e0-d8aea74b44dd.svg)
 
 <h2 align="center">GRAM</h2>
 
